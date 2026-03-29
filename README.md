@@ -51,7 +51,8 @@ The application uses a "when" statement to match user input and display suggesti
 
 ## Screenshots
 
-(Add screenshots of your app here)
+<img width="540" height="960" alt="empty png" src="https://github.com/user-attachments/assets/86823947-0fa8-4615-b4d1-0999a599e932" />
+<img width="540" height="960" alt="result png" src="https://github.com/user-attachments/assets/69f044dd-a61b-433f-9c55-475e1b988d9d" />
 
 
 ## Author
