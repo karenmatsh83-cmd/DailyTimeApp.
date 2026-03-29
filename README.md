@@ -52,10 +52,10 @@ The application uses a "when" statement to match user input and display suggesti
 ## Screenshots
 
 ### Empty App Screen
-! [Empty Screen](empty.png)
+! [Empty Screen](empty.png.png)
 
 ### App in use
-![Result Screen](results.png)
+![Result Screen](result.png.png)
 
 ## Author
 
