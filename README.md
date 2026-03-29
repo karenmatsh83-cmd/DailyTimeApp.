@@ -52,7 +52,7 @@ The application uses a "when" statement to match user input and display suggesti
 ## Screenshots
 
 (Add screenshots of your app here)
-<img width="986" height="587" alt="DailyTimeApp_Readme" src="https://github.com/user-attachments/assets/219a8e61-8542-48f0-885e-248f3216f781" />
+
 
 ## Author
 
