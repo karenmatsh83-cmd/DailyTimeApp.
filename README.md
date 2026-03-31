@@ -64,7 +64,7 @@ The application uses a "when" statement to match user input and display suggesti
 ## Video Demonstration
 
 Watch my app demo here:
-[Click here to view the video](./AppVideo.mp4)
+[Click here to watch the video](https://youtube.com/shorts/_AtsYmw0cuI?feature=share) 
 
 
 
