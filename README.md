@@ -60,3 +60,11 @@ The application uses a "when" statement to match user input and display suggesti
 ## Author
 
 **Koketso M**
+
+## Video Demonstration
+
+Watch my app demo here :
+[Click here to view the video](./App Video.mp4)
+
+
+
