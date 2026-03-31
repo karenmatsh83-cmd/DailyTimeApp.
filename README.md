@@ -63,8 +63,8 @@ The application uses a "when" statement to match user input and display suggesti
 
 ## Video Demonstration
 
-Watch my app demo here :
-[Click here to view the video](./App Video.mp4)
+Watch my app demo here:
+[Click here to view the video](./AppVideo.mp4)
 
 
 
